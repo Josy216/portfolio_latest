@@ -1,5 +1,12 @@
 # Joseph Teka - Full-Stack Developer
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-josephteka.pro.et-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://josephteka.pro.et/)
+[![GitHub](https://img.shields.io/badge/GitHub-josy216-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josy216)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Teka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-teka-271661309)
+[![YouTube](https://img.shields.io/badge/YouTube-@jocode216-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jocode216)
+[![Telegram](https://img.shields.io/badge/Telegram-@jocode-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jocode)
+[![npm](https://img.shields.io/badge/npm-jocode--create--folder-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/jocode-create-folder)
+
 Software Engineer at Honeyland Hotel and Founder of Jocode (independent developer platform). Building production web systems, business automation tools, AI-assisted platforms, and developer tooling.
 
 Portfolio: [https://josephteka.pro.et/](https://josephteka.pro.et/)
@@ -26,7 +33,7 @@ This repository contains the source code for my personal developer portfolio, sh
 | Video Tutorials | 80+ Technical tutorials and roadmaps on YouTube |
 | Mentorship | 17+ Paid mentorship alumni and 100+ community developers |
 | CLI Downloads | 500+ npm downloads for jocode-create-folder |
-| Cost Efficiency | Saved over 16,070 ETB in paper and printing costs within 3 months for a single client hotel |
+| Cost Efficiency | Saved over 700,000+ ETB in manual operations, paperwork, and printing costs across different clients |
 
 ---
 
@@ -46,6 +53,7 @@ Full-stack hotel booking platform with an integrated 24/7 AI concierge and staff
 ### 2. ScanID - Guest Registration System
 Eliminates manual paper registration by scanning guest IDs in under one minute, attaching classified payment receipts, and automating night audit reporting.
 - Production Status: Active across 4 international hotels
+- Impact: Saved over 700K+ ETB in printing, paper, and manual registration overhead across client deployments
 - Walkthrough: [YouTube Video](https://www.youtube.com/watch?v=nILMiZ1lAOM)
 - Tech Stack: React, TypeScript, Node.js, Express, Scanner Integration, MySQL
 
